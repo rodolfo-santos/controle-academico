@@ -1,0 +1,74 @@
+.text-upper {
+  text-transform: uppercase;
+}
+
+main {
+  min-height: 90vh;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-pointer:hover {
+  color: blue;
+}
+
+.delete, .edit {
+  transition: .5s;
+}
+
+.delete:hover {
+  color: orangered;
+}
+
+.edit:hover {
+  color: olivedrab;
+}
+
+.bg-muted {
+  background-color: #eee;
+}
+
+a {
+  color: #222;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  font-size: 2em;
+  border-bottom: 1px solid #ddd;
+}
+
+.home_container {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* Scrollbar */
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
