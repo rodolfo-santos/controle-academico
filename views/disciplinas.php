@@ -58,7 +58,7 @@
   </div>
   <div class="row">
     <div class="form-group col-12 d-flex justify-content-end">
-        <button type="submit" class="btn btn-success px-4">Inserir novo Aluno</button>
+        <button type="submit" class="btn btn-success px-4">Inserir nova Disciplina</button>
     </div>
   </div>
 
