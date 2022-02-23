@@ -62,5 +62,5 @@ Recomendo instalar o conjunto através de uma das ferramentas (Escolha a recomen
 [MAMP](https://www.mamp.info/en/windows/)
 
 Independente da sua escolha você deve colocar o projeto dentro da pasta do site recomendada pela documentação de cada ferramenta
-E importar o arquivo `./dump/programacao_web.sql` através do phpmyadmin
+e importe através do phpmyadmin o arquivo que corresponde ao banco: `./dump/programacao_web.sql`
 
